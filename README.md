@@ -12,7 +12,7 @@ Usage:
     /*** app.ts ***/
 
     ...
-    import { TableSortDirective } from '../ng-table-sort/table-sort.directive';
+    import { TableSortDirective } from 'ng-table-sort/table-sort.directive';
 
     @NgModule({
       declarations: [
